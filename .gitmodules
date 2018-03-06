@@ -1,0 +1,6 @@
+[submodule "components/api"]
+	path = components/api
+	url = https://github.com/luitas/fullstack-back.git
+[submodule "components/front"]
+	path = components/front
+	url = https://github.com/luitas/fullstack-front.git
